@@ -1,1 +1,2 @@
 # Code-Clause-Internship-Tasks
+This Git repository contains the completed tasks of the Code Clause Internship Program. The first task completed is Credit Card Fraud Detection, which aims to detect fraudulent credit card transactions using machine learning models and artificial neural networks. The second task completed is a Movie Recommendation System that uses collaborative filtering and content-based filtering techniques to recommend movies to users.
